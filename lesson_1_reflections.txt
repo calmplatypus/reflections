@@ -1,0 +1,38 @@
+How did viewing the diff between 2 files help me to see the bug that was introduced?
+By viewing the diff of the 2 files
+I was shown where exactly there were differences
+By highlighting these differences the error was apparent and easy to fix
+It was also easy to understand where and why the bug was present
+
+How could having easy access to the entire history of a file make me a more efficient programer in the long term?
+By having the entire history of a file I would be able to see where certain things worked at certain points in time
+If bugs are introduced I am easily able to locate at what point they were introduced
+If new problems are solved I can easily see why and how they were solved with respect to a previous version of the code
+Furthermore I will be able to see if features that were necessary but bugged have been removed
+Thus pushing me to re-add them minus their buggyiness
+
+What are the pros and cons of manually committing versus having automatic commits like google docs?
+I think manually committing is ideal when one is vigilant and disciplined with knowing when to commit
+It can also be risky if one knows they can forget to repeat this process
+Google docs automatic commits can result in a wide variety of commit changes that dont particularly make sense from one to another
+However one must learn to be responsible and disciplined with their commits with git such that they can have the best case scenarios
+
+Why do some version control systems allow for multiple files to be saved in one commit whereas others only allow for one file per commit?
+Git supposes that changes across files in the same repository will be linked to each other
+Particularly the way web development works it seems that a change to your html may affect your javascript and vis versa
+Google Docs on the other hand can't assume this and it also would be dangerous to do so for the most part and thus each file must be treated separately
+
+How can I use the commands git log and git diff to view the history of files?
+git log seems to show me the state of a file at any given commit
+this allows me to look back at previous instances of my files and how there code worked
+Furthermore if these files are quite complex, git diff allows me to specifically highlight what is different about a current file
+versus a past or recent version of it such that I can now see what has fundamentally changed in the different versions.
+
+How Might version control make me more confident to make changes that could break something?
+By being able to checkout any previously committed version of my code, I will be more willing to take drastic change on my code
+This is because I won't fear forgetting to replace lines of code if it doesn't work out
+
+What do I want to try using git for?
+I want to use git for my upcoming foray into full stack development as well as machine learning
+I will be using it specifically to maintain different timed versions of my work such that I can look at how my work progresses
+over time and locate how and why certain features work as intended or not
