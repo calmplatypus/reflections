@@ -1,0 +1,8 @@
+What happens when I initialize a repository? Why do I need it?
+When I initialize a repository git creates a set of metadata about the directory and begins to track it
+I need to do it such that git know to now apply git commands to this directory when I call them
+
+How is the staging area different from the working directory and the repository? What value does it offer?
+The staging area is a sort of purgatory for files before they move of to the repository
+It allows me to sort this together for a commit before I actually commit them, thus allowing me to have a space where I can test what my commit will look like
+It offers value by allowing me to see what my commit will be like before I actually finalize it
