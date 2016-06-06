@@ -11,3 +11,11 @@ How can I use the staging area to make sure I have 1 commit per logical change?
 By using the staging area I can make changes to multiple files and then commit these under one commit
 This is important as overall 1 logical change in the structure of the software I am working on may involve changes in several files
 By doing this I can make sure that even changes that involve multiple files can be grouped under their 1 logical change in a commit
+
+What are some situations when making branches would be helpful in keeping my history organised? How would branches help?
+Making branches would be very useful when trying to work on different approaches to my software at the same time,\
+Especially when trying to see and compare a set of approaches to implementing certain features
+It could also be great for if I need to work on different final products that will ship to different clients etc who may need differing modifications to the code I provide them
+
+How do diagrams help you visualise the branch structure?
+The diagrams allow me to see the logical connections between all branches rather than just trying to figure this out in my head from looking at various commit logs
