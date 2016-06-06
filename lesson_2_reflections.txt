@@ -25,3 +25,9 @@ Merging 2 branches together retains all the common features of each branch
 It then also look back to see what has been removed from the original in each branch and will remove these from the merged product
 Furthermore it will then add all the new lines that have been added by each branch
 We represent it as two branches connecting as that is exactly what is happening, branches and joining into 1 with 2 separate history lines
+
+What are the pros and cons of Gits automatic merging vs manual merging every time?
+automatic merging is great for rather simple and clean changes between branches as you can combine 2 different branches easily without too much hassle
+Doing this manually could be quite laborious for what really is quite a trivial act.
+Likewise automatic merging could possibly raise issues whereby things make it to the final version that possibly weren't intended
+Although this seems unlikely and automatic merging appears to come up on top
