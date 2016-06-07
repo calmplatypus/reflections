@@ -1,3 +1,8 @@
 When would you want to create a remote repository rather than store all your files locally?
 I would do this if I am working in collaboration with others as it would allow us all to easily access the files and make changes to the project
 I would also do this if I knew I would be switching between different computers and would need access to the same files from these varying locations
+
+Why might I want to always pull changes manually rather than having Git automatically stay up to date with my remote repository?
+Pulling manually allows me to dictate what is publically available for all to see, or in the cae of a private account what my collaborators can see
+This is important as maybe I am working on some very buggy code that I do not want others to see before its ready or maybe I am working on proprietary software that needs to be kept private
+
