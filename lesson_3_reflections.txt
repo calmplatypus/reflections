@@ -1,0 +1,3 @@
+When would you want to create a remote repository rather than store all your files locally?
+I would do this if I am working in collaboration with others as it would allow us all to easily access the files and make changes to the project
+I would also do this if I knew I would be switching between different computers and would need access to the same files from these varying locations
