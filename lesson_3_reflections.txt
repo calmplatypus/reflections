@@ -6,3 +6,10 @@ Why might I want to always pull changes manually rather than having Git automati
 Pulling manually allows me to dictate what is publically available for all to see, or in the cae of a private account what my collaborators can see
 This is important as maybe I am working on some very buggy code that I do not want others to see before its ready or maybe I am working on proprietary software that needs to be kept private
 
+Describe the differences between forks, clones and branches. WHen would one be used instead of others?
+A fork is a copy of a repository on GitHub that retains a link or connections back to the original create of the work
+A clone is a copy of a given repository, either from local space to local space or from GitHub to your local drive
+A branch is simply an alternate copy of a repository in which at some previous time changes have been made to it that have not been committed to the master
+A fork would be used when one wants to use someone elses work to either improve on it or change parts of it to suit their needs
+A clone would be used if someone directly wants a copy of come code in a repository
+A branch would be used if you wanted to try some experimental changes in a project without compromise the original or master
