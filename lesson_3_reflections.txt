@@ -13,3 +13,6 @@ A branch is simply an alternate copy of a repository in which at some previous t
 A fork would be used when one wants to use someone elses work to either improve on it or change parts of it to suit their needs
 A clone would be used if someone directly wants a copy of come code in a repository
 A branch would be used if you wanted to try some experimental changes in a project without compromise the original or master
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Having a copy of the remote stored locally means you can diff your work or brach with the copy of the remote to see how it differs and how you have changed it
