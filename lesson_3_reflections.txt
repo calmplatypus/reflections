@@ -16,3 +16,8 @@ A branch would be used if you wanted to try some experimental changes in a proje
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Having a copy of the remote stored locally means you can diff your work or brach with the copy of the remote to see how it differs and how you have changed it
+
+How would I collaborate without GitHub, what would be easier/harder?
+Without GitHub collarboration would require disciplined cooperation and scheduled meeting constantly to see that everyone is
+on the same page, comparing each others work would be harder and we would need constantly be making sure what we are working
+on was up to date with each other.
